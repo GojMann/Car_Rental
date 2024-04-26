@@ -3,6 +3,7 @@
 Basic Java project about a rental car company. With simple features as 
 
 How to make a new customer
+
 How to delete a customer
 
 How to make a rental to a customer
